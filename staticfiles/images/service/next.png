@@ -1,0 +1,613 @@
+
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  	<meta charset="utf-8">
+  	<title>How to Start a Blog in 2019 – Best Guide for Beginners (7 Easy Steps)</title>
+  	<meta name="description" content="this is a web template page">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  	<link rel="manifest" href="site.webmanifest">
+  	<link rel="shortcut icon" href="https://jimfahaddigital.com/wp-content/themes/digital/img/favicon.ico">
+  	<!-- BOOTSTRAP CSS LINKED HERE -->
+  	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://jimfahaddigital.com/wp-content/themes/digital/css/normalize.css">
+    <link rel="stylesheet" href="https://jimfahaddigital.com/wp-content/themes/digital/css/owl.carousel.css">
+    <link rel="stylesheet" href="https://jimfahaddigital.com/wp-content/themes/digital/css/owl.theme.default.css">
+    <link rel="stylesheet" href="https://jimfahaddigital.com/wp-content/themes/digital/css/lightbox.css">
+    <link rel="stylesheet" href="https://jimfahaddigital.com/wp-content/themes/digital/css/main.css">
+    <link rel="stylesheet" href="https://jimfahaddigital.com/wp-content/themes/digital/css/temp.css">
+    <link rel="stylesheet" href="https://jimfahaddigital.com/wp-content/themes/digital/css/responsive.css">
+
+    <style type="text/css">			.heateorSssInstagramBackground{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateorSssSharing,.heateor_sss_standard_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssSharing:hover,.heateor_sss_standard_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing .heateorSssSharing,.heateor_sss_floating_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+				.heateor_sss_vertical_sharing .heateorSssSharing:hover,.heateor_sss_floating_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}@media screen and (max-width:783px) {.heateor_sss_floating_follow_icons_container{display:none!important}}</style><link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jimfahaddigital.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.17"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://jimfahaddigital.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.17' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://jimfahaddigital.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css'  href='https://jimfahaddigital.com/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_sharing_default_svg-css'  href='https://jimfahaddigital.com/wp-content/plugins/sassy-social-share/admin/css/sassy-social-share-svg.css?ver=3.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='enlighter-local-css'  href='https://jimfahaddigital.com/wp-content/plugins/enlighter/resources/EnlighterJS.min.css?ver=3.10.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js?ver=5.3.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jfd_global = {"ajax_url":"https:\/\/jimfahaddigital.com\/wp-admin\/admin-ajax.php","nonce":"2af8e29c38","s_nonce":"588d8ccb3a","site_url":"https:\/\/jimfahaddigital.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/themes/digital/js/main.js?ver=5.3.17'></script>
+<link rel='https://api.w.org/' href='https://jimfahaddigital.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jimfahaddigital.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jimfahaddigital.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.17" />
+		<style type="text/css" id="wp-custom-css">
+			pre{
+	    background: #EEEEEE;
+      padding: 1em 2em;
+}		</style>
+		
+    <link rel="stylesheet" href="https://jimfahaddigital.com/wp-content/themes/digital/css/priority.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151912603-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-151912603-1');
+    </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '127538584544703');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=127538584544703&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+</head>
+
+<body class="error404  elementor-default elementor-kit-366">
+
+	<!--[if IE]>
+	    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+	<![endif]-->
+
+    
+  	<!-- Add your site or application content here -->
+  	<header class="">
+       <div class="header-top">
+           <div class="container-fluid">
+               <div class="header-top-wrapper">
+                   <a href="#" class="header-contact"><i class="fa fa-star" aria-hidden="true"></i> Get a Quote</a>
+                   <ul class="header-social">
+                       <li><a href="https://jimfahaddigital.com/free-website-giveaway/"><img src="https://jimfahaddigital.com/wp-content/themes/digital/img/gift.png" alt=""> <span class="hidden-xs">Free Website Giveaway</span></a></li>
+                       <!-- <li><a href="#"><i class="fab fa-facebook-f"></i> <span class="hidden-xs">facebook</span></a></li> -->
+                       <!-- <li><a href="#"><i class="fab fa-twitter"></i> <span class="hidden-xs">twitter</span></a></li>
+                       <li><a href="#"><i class="fab fa-instagram"></i> <span class="hidden-xs">instagram</span></a></li>
+                       <li><a href="#"><i class="fab fa-linkedin-in"></i> <span class="hidden-xs">linkedin</span></a></li>
+                       <li><a href="#"><i class="fab fa-pinterest-p"></i> <span class="hidden-xs">Pinterest</span></a></li> -->
+                       <li><a href="https://www.youtube.com/channel/UCToSQO0Xu4FU3JuZTvIgxbw?sub_confirmation=1" target="_blank"> <span class="hidden-xs"><i class="fab fa-youtube"></i>Subscibe to my channel:</span> <script src="https://apis.google.com/js/platform.js"></script>
+                    <div class="g-ytsubscribe" data-channelid="UCToSQO0Xu4FU3JuZTvIgxbw" data-layout="default" data-count="default"></div></a></li>
+                   </ul>
+               </div>
+           </div>
+       </div> 
+
+       <div class="main-header">
+           <div class="container-fluid">
+               <div class="main-header-wrapper">
+                   <a href="https://jimfahaddigital.com" class="logo"><img src="https://jimfahaddigital.com/wp-content/themes/digital/img/logo.png" alt=""></a>
+
+                   <!-- menu toggler -->
+                    <div class="menu-area">
+                        <div class="menu-trigger">
+                            <span class="menu-icon"></span>
+                            <span>MENU</span> 
+                        </div>
+                    </div>
+                    
+                    <!-- main menu -->
+                    <nav class="menu">
+
+                      <ul id="menu-primary-menu" class=""><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-24"><a href="https://jimfahaddigital.com/">Home</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://jimfahaddigital.com/web-hosting/">Web hosting</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://jimfahaddigital.com/resources/">Resources</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://jimfahaddigital.com/tutorial/">Tutorial</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://jimfahaddigital.com/pro-services/">Pro Services</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://jimfahaddigital.com/contact/">Contact</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="#">Need any solution?</a></li>
+</ul>
+                   </nav>
+               </div>
+           </div>
+       </div>
+    </header>
+	
+			<div data-elementor-type="section" data-elementor-id="617" class="elementor elementor-617" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-6a0fc80 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="6a0fc80" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a8de4fa" data-id="a8de4fa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bb3b910 elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="bb3b910" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Get Ready Elementor Templates</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-56c88fe elementor-widget__width-auto elementor-mobile-align-center elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="56c88fe" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://jimfahaddigital.com/kitpapa" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Download Now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		
+<!--     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                ...
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+<div class="job-modal popup-modal">
+    <div class="job-area popup-area">
+        <div class="job-form-container popup-container">
+            <span class="job-modal-close popup-modal-close"><i class="fa fa-times" aria-hidden="true"></i></span>
+            <h3 class="request-quote-title-pop">Request A Quote</h3>
+
+            <div class="form-header">
+                <img src="https://secure.gravatar.com/avatar/7127c003ab5257089a59d9976001012f" alt="">
+                <div class="author-info">
+                    <h4>Jim Fahad</h4>
+                    <p>Hi, please provide your request details below and I’ll get back to you.</p>
+                </div>
+            </div>
+
+            <form action="" class="job-form" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="name">Your name<sup>*</sup></label>
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Your name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email address<sup>*</sup></label>
+                    <input type="email" name="email" class="form-control" id="email" placeholder="Enter email" required>
+                </div>
+                <!-- <div class="form-group">
+                    <label for="title">Job title<sup>*</sup></label>
+                    <input type="text" name="title" class="form-control" id="title" placeholder="Job title" required>
+                    <div class="form-tip-container">
+                        <div class="form-tip">
+                            <div class="tip-header">
+                                <img src="/img/bulb.svg" alt="">
+                                <h3>Define in detail</h3>
+                            </div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.  sint rerum eaque, iusto atque animi </p>
+                            <h5>Et ipsa accusamus sed</h5>
+                            <p>Voluptas facilis error aspernatur commodi quae, vitae, eligendi inventore in recusandae temporibus.</p>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="form-group form-group-message">
+                    <label for="message">Describe the service you're looking to purchase - please be as detailed as possible:</label>
+                    <textarea class="form-control q-message" name="message" id="message" maxlength="5000" rows="3" plkaceholder="E.g. I need to build a WordPress website"></textarea>
+                    <span class="letter-count"><span>0</span> / 5000</span>
+                    <div class="form-tip-container">
+                        <div class="form-tip">
+                            <div class="tip-header">
+                                <img src="https://jimfahaddigital.com/wp-content/themes/digital/img/bulb.svg" alt="">
+                                <h3>Define in Detail</h3>
+                            </div>
+                            <p>Include all the necessary details needed to complete your request.</p>
+                            <h5>For example:</h5>
+                            <p>If you are looking for a business website, you can specify your business type, other reference websites you like, preferred color, etc.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group file-group" style="display: none;">
+                    <label for="file" class="site-btn file-btn"><i class="fa fa-paperclip"></i> <span>Attach a file</span></label>
+                    <input type="file" name="attatchment" class="form-control-file" id="file">
+                    <div class="message message-size-error alert alert-danger" role="alert">Your uploaded file size is too large.</div>
+                </div>
+                <div class="form-group job-time-input">
+                    <p class="label">Once you place your order, when would you like your service delivered?</p>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" name="time-radio" type="radio" id="time-1" value="24 Hours">
+                        <label class="form-check-label" for="time-1">24 Hours</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" name="time-radio" type="radio" id="time-2" value="3 Days">
+                        <label class="form-check-label" for="time-2">3 Days</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" name="time-radio" type="radio" id="time-3" value="7 Days">
+                        <label class="form-check-label" for="time-3">7 Days</label>
+                    </div>
+                    <div class="input-group">
+                        <button type="button" id="time-custom-btn" data-class="time-custom-btn" class="btn"><i class="fa fa-edit"></i> Other</button>
+                        <input type="number" min="0" class="form-control" data-class="time-custom" id="time-custom" placeholder="# days">
+                    </div>
+                    <input type="hidden" name="time" class="time" id="time">
+                    <div class="form-tip-container">
+                        <div class="form-tip">
+                            <div class="tip-header">
+                                <img src="https://jimfahaddigital.com/wp-content/themes/digital/img/bulb.svg" alt="">
+                                <h3>Set a Delivery Time</h3>
+                            </div>
+                            <p>This is the amount of time you want it to be completed. Please note that a request for faster delivery may impact the price.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="budget">What is your budget for this service?<sup>*</sup></label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">$</div>
+                        </div>
+                        <input type="number" name="budget" min="0" class="form-control" id="budget" placeholder="Esimated Budget" required>
+                    </div>
+                    <div class="form-tip-container">
+                        <div class="form-tip">
+                            <div class="tip-header">
+                                <img src="https://jimfahaddigital.com/wp-content/themes/digital/img/bulb.svg" alt="">
+                                <h3>Set Your Budget</h3>
+                            </div>
+                            <p>Enter an amount you are willing to spend for this service.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <input type="hidden" class="job-hf" value="rest">
+                
+                <button type="submit" class="site-btn job-submit popup-submit"><span>Submit Request</span> <i class="fa fa-spinner fa-spin"></i></button>
+
+                <div class="message message-success alert alert-success" role="alert">Your request sent successfully.<span class="quote-back-mail"> We'll review and send you a conformation mail shortly. Please check your inbox.</span> Thank you!</div>
+                <div class="message message-error alert alert-danger" role="alert">Something went wrong. Your request is not submitted.</div>
+                <div class="message message-file-error alert alert-danger" role="alert">Your request is submitted but attached file is not uploded.</div>
+            </form>
+
+                        <span class="hidden jobs-per-page">2</span>
+            <div class="all-jobs">
+            
+                <h3>Recent Projects</h3>
+
+                
+                <div class="single-job">
+                    <!-- <h4></h4> -->
+                    
+                    <div class="job-info">
+                        <div class="client-info">
+                            <span class="user-pic"></span>
+                            <h6>
+                                <span class="client-name">Jay Cooper</span> 
+                                <span class="able"><i class="fas fa-star"></i> 5.00</span>
+                            </h6>
+                            <div class="country">
+                                <img class="country-flag" src="https://jimfahaddigital.com/wp-content/uploads/2020/01/c-2.png">
+                                <div class="country-name font-accent">United States</div>
+                            </div>
+                        </div>
+                        <span class="job-state">
+                            <div class="message-service alert alert-success" role="alert">Completed</div>
+                        </span>
+                    </div>
+                                        <div class="job-content">I have a local store in California US. But, I want an online channel to grow my business further away. So, all I need to make an entire website from A-Z. Let's discuss more on Skype?</div>
+                                        <div class="message-service message-service-budget alert alert-dark" role="alert">Budget: $750</div>
+                    
+                    
+                    <div class="job-feedback">
+                        <h6>Client feedback:</h6>
+                        <p>Fahad is a talented web developer with a fantastic dimension of creativity and proactivity. He made the whole process very easy for me with excellent communication. I enjoyed the process and timely delivery. Thank you so much.</p>
+                    </div>
+                    
+                </div>
+
+                
+                <div class="single-job last-show">
+                    <!-- <h4></h4> -->
+                    
+                    <div class="job-info">
+                        <div class="client-info">
+                            <span class="user-pic"></span>
+                            <h6>
+                                <span class="client-name">Angela July</span> 
+                                <span class="able"><i class="fas fa-star"></i> 5.00</span>
+                            </h6>
+                            <div class="country">
+                                <img class="country-flag" src="https://jimfahaddigital.com/wp-content/uploads/2020/01/c-1.png">
+                                <div class="country-name font-accent">United Kingdom</div>
+                            </div>
+                        </div>
+                        <span class="job-state">
+                            <div class="message-service alert alert-success" role="alert">Completed</div>
+                        </span>
+                    </div>
+                                        <div class="job-content minimize">For my personal portfolio, I've built a website using Divi. When I try to work on it several pages are broken. I need your personal help. And let me confess another thing, I've tried some freelancers to do this task from Fiverr and Upwork and I'm completely disappointed with their result. Most of them pretend like they know it all but the result is zero. Then one of my good friends Max(you know him) referred me to your website and said you're the real guy! Please, I need it to be done. I'm flexible with the budget. Please! Are you available this week? No rush though!</div>
+                    <a class="job-show-more" href="#"><span>Show More</span><span>Show Less</span></a>                    <div class="message-service message-service-budget alert alert-dark" role="alert">Budget: $450</div>
+                    
+                    
+                    <div class="job-feedback">
+                        <h6>Client feedback:</h6>
+                        <p>My goodness! Fahad!!! You're a magician. Oh my gosshh! I can't thank you more, Also thanks to  Max for referring you! I'm super happy!</p>
+                    </div>
+                    
+                </div>
+
+                
+                <div class="single-job hidden">
+                    <!-- <h4></h4> -->
+                    
+                    <div class="job-info">
+                        <div class="client-info">
+                            <span class="user-pic"></span>
+                            <h6>
+                                <span class="client-name">Alex</span> 
+                                <span class="able"><i class="fas fa-star"></i> 5.00</span>
+                            </h6>
+                            <div class="country">
+                                <img class="country-flag" src="https://jimfahaddigital.com/wp-content/uploads/2020/01/c-3.png">
+                                <div class="country-name font-accent">Germany</div>
+                            </div>
+                        </div>
+                        <span class="job-state">
+                            <div class="message-service alert alert-success" role="alert">Completed</div>
+                        </span>
+                    </div>
+                                        <div class="job-content">I have built a theme by following your elementor123 tutorial. I need a little bit of customization and need to add 3 more pages. I created those 3 pages basic mockups as well. Can we schedule a Skype call tonight or tomorrow morning? Thank you!</div>
+                                        <div class="message-service message-service-budget alert alert-dark" role="alert">Budget: $350</div>
+                    
+                    
+                    <div class="job-feedback">
+                        <h6>Client feedback:</h6>
+                        <p>I started learning website creation from your tutorials. The value you provided on the FREE YT tutorials is priceless. And now when I do a professional project with you, you just proved how professional you are! Now I understand why your clients are so happy working with you! Such a knowledgeable humble guy, such a personality! I just want to say thank you, my dear mentor. <3 </p>
+                    </div>
+                    
+                </div>
+
+                
+                <button class="site-btn load-more-project">See more projects <i class="fa fa-spinner fa-spin"></i></button>            </div>
+
+            
+        </div>
+    </div>
+</div>
+<section class="not-found-404 page-banner">
+    <div class="container text-center">
+        <h2 class="site-title text-center"><span class="bar"></span>404 Page Not Found</h2>
+            <a href="https://jimfahaddigital.com/tutorial/elementor123/" class="site-btn">Create a website Yourself</a>
+            <a href="https://jimfahaddigital.com/pro-services/" class="site-btn">Pro Website Services</a>
+        </div>
+    </div>
+</section>
+
+
+    <footer>
+    	<div class="footer-top">
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-12 col-md-8 col-lg-4">
+    					<h1>JFD</h1>
+    					<p>All solutions here. Now you can launch your amazing website within a week. And you will get support from the world's one of the top rated web developers.</p>
+    				</div>
+    				<div class="col-12 col-md-4 col-lg-2">
+    					<h6>Quick Tour</h6>
+    					<ul class="footer-top-menu">
+    						<li><a href="https://jimfahaddigital.com/web-hosting/">WEB HOSTING</a></li>
+    						<li><a href="https://jimfahaddigital.com/resources/">RESOURCES</a></li>
+    						<li><a href="https://jimfahaddigital.com/pro-services/">PRO SERVICES</a></li>
+    						<li><a href="https://jimfahaddigital.com/contact/">CONTACT</a></li>
+    					</ul>
+    				</div>
+    				<div class="col-12 col-md-6 col-lg-3">
+    					<h6>Most Popular Services</h6>
+    					<ul class="footer-top-menu">
+                            <li><a href="https://jimfahaddigital.com/service/i-will-design-or-develop-a-responsive-wordpress-blog-website/">Make my complete blog website</a></li>
+                            <li><a href="https://jimfahaddigital.com/service/i-will-create-a-professional-wordpress-website-for-your-business/">Kick Ass Business Website Service</a></li>
+                            <li><a href="https://jimfahaddigital.com/service/i-will-develop-a-custom-wordpress-website-for-you/">Custom Wordpress website creation</a></li>
+                            <li><a href="https://jimfahaddigital.com/request-a-quote/">Need custom website fixes?</a></li>
+                        </ul>
+    				</div>
+    				<div class="col-12 col-md-6 col-lg-3">
+    					<h6>Hit Right Now</h6>
+    					<!-- <form action="#" class="footer-subscribe-form">
+    						<input type="text">
+    						<a href="#" class="site-btn">submit</a>
+    					</form> -->
+                        <p class="footer-top-buttons">
+                            <a href="https://www.youtube.com/channel/UCToSQO0Xu4FU3JuZTvIgxbw?sub_confirmation=1" target="_blank" class="site-btn">WATCH FREE TUTORIALS</a>
+                            <a href="https://jimfahaddigital.com/pro-services/" class="site-btn">HIRE A PRO WEB DESIGNER</a>
+                            <a href="https://jimfahaddigital.com/request-a-quote/" class="site-btn">GET A QUOTE</a>
+                        </p>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+
+    	<div class="footer-bottom">
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-12 col-md-6"><p>©2015-2020. Jim Fahad Digital. All rights reserved.</p></div>
+    				<div class="col-12 col-md-6">
+    					<p class="footer-right-menu">
+    						<a href="https://jimfahaddigital.com/disclaimer/">Disclaimer</a> <span class="bar">/</span>
+    						<a href="https://jimfahaddigital.com/terms-conditions/">Terms of Service</a> <span class="bar">/</span>
+    						<a href="https://jimfahaddigital.com/privacy-policy/">Privacy Policy</a>
+    					</p>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </footer>
+
+
+
+  	<script src="https://jimfahaddigital.com/wp-content/themes/digital/js/vendor/modernizr-3.7.1.min.js"></script>
+  	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  	<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
+  
+  	<!-- BOOTSTRAP JAVASCRIPT LINKED HERE -->
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <!-- FONT AWSAME ICON CDN -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.js"></script> -->
+    <script src="https://jimfahaddigital.com/wp-content/themes/digital/js/jquery.counterup.js"></script>
+    <script src="https://jimfahaddigital.com/wp-content/themes/digital/js/masonry-docs.min.js"></script>
+    <script src="https://jimfahaddigital.com/wp-content/themes/digital/js/lightbox.js"></script>
+    <script>
+        jQuery(document).ready(function($) {
+            $('.counter').counterUp({
+                delay: 10,
+                time: 1000
+            });
+        });
+    </script>
+
+
+  	<!-- MAIN USED JAVASCRIPT -->
+
+    <script src="https://jimfahaddigital.com/wp-content/themes/digital/js/owl.carousel.js"></script>
+    <script src="https://jimfahaddigital.com/wp-content/themes/digital/js/owl.autoplay.js"></script>
+    <script src="https://jimfahaddigital.com/wp-content/themes/digital/js/owl.navigation.js"></script>
+  	<script src="https://jimfahaddigital.com/wp-content/themes/digital/js/plugins.js"></script>
+  	<script src="https://jimfahaddigital.com/wp-content/themes/digital/js/main-2.js"></script>
+
+  	<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  	<script>
+    	window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    	ga('create', 'UA-XXXXX-Y', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
+  	</script>
+  	<script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+    <link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://jimfahaddigital.com/wp-content/uploads/elementor/css/custom-frontend-legacy.min.css?ver=3.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://jimfahaddigital.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1637692003' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+@font-face{font-family:eicons;src:url(https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
+<link rel='stylesheet' id='elementor-post-617-css'  href='https://jimfahaddigital.com/wp-content/uploads/elementor/css/post-617.css?ver=1687467045' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-366-css'  href='https://jimfahaddigital.com/wp-content/uploads/elementor/css/post-366.css?ver=1637692003' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://jimfahaddigital.com/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1637692003' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://jimfahaddigital.com/wp-content/uploads/elementor/css/global.css?ver=1637692007' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animations-css'  href='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.3.17' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/jimfahaddigital.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript'>
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://jimfahaddigital.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://jimfahaddigital.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://jimfahaddigital.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")};var heateorSssWhatsappShareAPI = "web";
+</script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.9'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/enlighter/resources/mootools-core-yc.js?ver=3.10.0'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/enlighter/resources/EnlighterJS.min.js?ver=3.10.0'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-includes/js/wp-embed.min.js?ver=5.3.17'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.8'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.8'></script>
+<script type='text/javascript'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/jimfahaddigital.com\/wp-admin\/admin-ajax.php","nonce":"4c386e0c16","urls":{"assets":"https:\/\/jimfahaddigital.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/jimfahaddigital.com\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/jimfahaddigital.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.8'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1250,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/jimfahaddigital.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"viewport_laptop":"1250","global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found &#8211; Jim Fahad Digital","excerpt":""}};
+</script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.8'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.8'></script>
+<script type='text/javascript' src='https://jimfahaddigital.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.5.1'></script>
+<script type="text/javascript">/* <![CDATA[ */EnlighterJS_Config = {"selector":{"block":"pre.EnlighterJSRAW","inline":"code.EnlighterJSRAW"},"language":"generic","theme":"enlighter","indent":2,"hover":"hoverEnabled","showLinenumbers":true,"rawButton":true,"infoButton":true,"windowButton":true,"rawcodeDoubleclick":false,"grouping":true,"cryptex":{"enabled":false,"email":"mail@example.tld"}};!function(){var a=function(a){var b="Enlighter Error: ";console.error?console.error(b+a):console.log&&console.log(b+a)};return window.addEvent?"undefined"==typeof EnlighterJS?void a("Javascript Resources not loaded yet!"):"undefined"==typeof EnlighterJS_Config?void a("Configuration not loaded yet!"):void window.addEvent("domready",function(){EnlighterJS.Util.Init(EnlighterJS_Config.selector.block,EnlighterJS_Config.selector.inline,EnlighterJS_Config)}):void a("MooTools Framework not loaded yet!")}();;/* ]]> */</script></body>
+
+</html>

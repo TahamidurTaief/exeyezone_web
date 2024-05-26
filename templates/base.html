@@ -1,0 +1,63 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eXeyezone</title>
+    <link rel="stylesheet" href="{% static 'bootstrap-5.0.2-dist/css/bootstrap.min.css' %}">
+    <link rel="icon" type="image/png" href="{% static 'images/f-logo.png' %}">
+
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js" integrity="sha512-ykZ1QQr0Jy/4ZkvKuqWn4iF3lqPZyij9iRv6sGqLRdTPkY69YX6+7wvVGmsdBbiIfN/8OdsI7HABjvEok6ZopQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+	<link
+      href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    
+
+
+	<link rel="stylesheet" href='{% static "css/style.css" %}'>
+	<link rel="stylesheet" href='{% static "css/header.css" %}'>
+	<link rel="stylesheet" href='{% static "css/footer.css" %}'>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="{% static 'css/main.css' %}">
+        <link rel="stylesheet" href="{% static 'css/slick.css' %}">
+        <link rel="stylesheet" href="{% static 'css/slick-theme.css' %}">
+
+        
+
+
+    {% block head %}{% endblock head %}
+</head>
+<body>
+
+{% include "includes/header.html" %}
+
+{% block content %}
+
+
+
+{% endblock %}
+
+{% include "includes/footer.html" %}
+
+
+    <script src="{% static 'bootstrap-5.0.2-dist/js/bootstrap.min.js' %}"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iconify/2.0.0/iconify.min.js" integrity="sha512-lYMiwcB608+RcqJmP93CMe7b4i9G9QK1RbixsNu4PzMRJMsqr/bUrkXUuFzCNsRUo3IXNUr5hz98lINURv5CNA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+    <script src="{% static 'js/popper.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+    <script src="{% static 'js/swiper-bundle.min.js' %}"></script>
+    <!-- JavaScript -->
+</body>
+</html>

@@ -1,0 +1,53 @@
+.EnlighterJSWrapper {
+    padding: 10px 0;
+}
+
+ol.enlighterEnlighterJS li {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background: #eee;
+}
+
+.EnlighterJS span {
+    font-size: 17px;
+    color: #555;
+}
+
+ol.enlighterEnlighterJS li {
+    list-style: decimal outside;
+    border-left: 1px solid #e0e0e0;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+ol.EnlighterJS li:first-child,
+ul.EnlighterJS li:first-child {
+    padding-top: 32px;
+}
+
+ol.EnlighterJS li:last-child,
+ul.EnlighterJS li:last-child {
+    padding-bottom: 32px;
+}
+
+.EnlighterJSToolbar {
+    visibility: hidden;
+}
+
+.enlighterEnlighterJSWrapper pre,
+ol.enlighterEnlighterJS,
+ul.enlighterEnlighterJS {
+    border: none;
+    border-radius: 0;
+}
+
+ol.EnlighterJS li,
+ol.enlighterEnlighterJS.hoverEnabled li:hover {
+    margin-left: 0;
+    border-color: transparent;
+}
+
+ol.enlighterEnlighterJS.hoverEnabled li:hover,
+ul.enlighterEnlighterJS.hoverEnabled li:hover {
+    background-color: #eee;
+}

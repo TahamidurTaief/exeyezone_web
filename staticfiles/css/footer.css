@@ -1,0 +1,311 @@
+
+
+/* --------Footer------- */
+.footer{
+    width: 100%;
+    overflow: hidden;
+}
+.footer .bar{
+    position: relative;
+    width: 110%;
+    height: 50px;
+}
+.footer .bar .text{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-around;
+    color: #ffffff;
+    position: absolute;
+    z-index: 5;
+    width: 400px;
+    height: 50px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-family: "poppins", sans-serif;
+}
+.footer .bar .text .t{
+    font-weight: 700;
+}
+.footer .bar .text i{
+    border-radius: 50%;
+    border: solid 1px #ffffff;
+    padding: 5px;
+}
+.footer .bar .skew-bar {
+    background-color: #161b23;
+    height: 60px;
+    /* border-left: 500px solid red; */
+    transform: skew(-33deg);
+    width: 100%;
+    position: absolute;
+    right: 35px;
+    z-index: -1;
+    /* overflow: hidden; */
+}
+.footer .bar .skew-bar .blue-bar{
+    position: absolute;
+    background-color: #0C343A;
+    border-top: #ffffff solid 10px;
+    height: 20px;
+    z-index: 2;
+    width: 500px;
+}
+.footer .bar .skew-bar .red-bar{
+    position: absolute;
+    background-color: #ed1e30;
+    height: 60px;
+    width: 500px;
+    z-index: 1;
+    
+}
+.footer .body {
+    background-color: #161b23;
+    font-family: 'Poppins', sans-serif;
+}
+.footer .body .f-contant{
+    color: #ffffff;
+}
+.footer .body .f-contant .logo{
+    background-image: url("../images/f-logo.png");
+    height: 40px;
+    width: 50%;
+    background-position: center;
+    background-size: cover;
+}
+.footer .body .f-contant .text {
+    font-size: 14px;
+    line-height: 20px;
+    word-spacing: 5px;
+}
+
+@media (max-width: 768px) {
+    .footer .body .f-contant .text {
+        font-size: 12px;
+        line-height: 18px;
+        word-spacing: 3px;
+    }
+}
+
+@media (max-width: 480px) {
+    .footer .body .f-contant .text {
+        font-size: 10px;
+        line-height: 16px;
+        word-spacing: 2px;
+    }
+
+    .footer .body .f-contant .item .icon, .footer .body .f-contant h4 {
+        color: #ed1e30;
+        margin-top: 1rem;
+    }
+
+    .footer .body .f-contant ul {
+        font-size: 10px;
+    }
+
+    .footer .bar .text {
+        width: 356px;
+        height: 50px;
+    }
+}
+.footer .body .f-contant .icon-grp{
+    width: 50%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+}
+.footer .body .f-contant .icon-grp a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.footer .body .f-contant .item .icon,
+.footer .body .f-contant h4{
+    color: #ed1e30;
+}
+.footer .body .f-contant a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.footer .body .f-contant ul{
+    list-style: none;
+}
+.footer .body .f-contant ul li::before{
+    color: #ff0040;
+    content: "\2022";
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+  margin-left: -1em;
+}
+.footer .copy-bar{
+    background-color: #202429;
+    color: #ffffff;
+    text-align: center;
+}
+
+.copy-bar a:hover{
+    color: #ed1e30;
+
+}
+
+/* -----xx---Footer----xx--- */
+
+/* BUBLE--------- */
+
+
+/* drible */
+:root {
+    --main-bg: #000000;
+    --pink: 255, 0, 89;
+    --violet: 186, 0, 253;
+    --blue: 0, 165, 253;
+    --yellow: 255, 200, 0;
+    --light: 255, 255, 255;
+    --alpha: .5;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+.bubble {
+    position: relative;
+    width: 18rem;
+    height: 18rem;
+    margin-top: -3rem !important;
+    margin-left: 70%;
+    position: absolute;
+    border-radius: 50%;
+    box-shadow: inset 0 0 2rem rgba(var(--light), 1), 
+        inset 2rem 0 4rem rgba(var(--pink), 1),
+        inset -2rem 0 6rem rgba(var(--blue), 1),
+        inset 0 4rem 4rem rgba(var(--violet), 1),
+        inset 0 -2rem 2rem rgba(var(--yellow), 1),
+        inset 2rem -2rem 1rem rgba(var(--yellow), 1),
+        0 0 4rem rgba(var(--light), .2),
+        2rem 0 8rem rgba(var(--pink), var(--alpha)),
+        -2rem 0 8rem rgba(var(--blue), var(--alpha)),
+        0 4rem 8rem rgba(var(--violet), var(--alpha)),
+        0 -2rem 8rem rgba(var(--yellow), var(--alpha));
+    animation: floating 3s ease-in-out infinite;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .bubble {
+        width: 10rem;
+        height: 10rem;
+        margin-top: 25rem !important;
+        margin-left: 38%;
+    }
+}
+
+/* @media screen and (max-width: 480px) {
+    .bubble {
+        width: 15rem;
+        height: 11rem;
+        margin-top: -8rem !important;
+        margin-left: 30%;
+    }
+} */
+  
+  .bubble.animated {
+    animation: rubber 1s linear;
+  }
+  
+  @keyframes rubber {
+    from {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+  
+    30% {
+      -webkit-transform: scale3d(1.25, 0.75, 1);
+      transform: scale3d(1.25, 0.75, 1);
+    }
+  
+    40% {
+      -webkit-transform: scale3d(0.75, 1.25, 1);
+      transform: scale3d(0.75, 1.25, 1);
+    }
+  
+    50% {
+      -webkit-transform: scale3d(1.15, 0.85, 1);
+      transform: scale3d(1.15, 0.85, 1);
+    }
+  
+    65% {
+      -webkit-transform: scale3d(0.95, 1.05, 1);
+      transform: scale3d(0.95, 1.05, 1);
+    }
+  
+    75% {
+      -webkit-transform: scale3d(1.05, 0.95, 1);
+      transform: scale3d(1.05, 0.95, 1);
+    }
+  
+    to {
+      -webkit-transform: scale3d(1, 1, 1);
+      transform: scale3d(1, 1, 1);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    html {
+      font-size: 10px;
+    }
+  }
+  
+  @keyframes floating {
+    from {
+      transform: translate(0, 0);
+    }
+    65% {
+      transform: translate(0, 1rem);
+    }
+    to {
+      transform: translate(0, 0);
+    }
+  }
+  
+  .bubble::before,
+  .bubble::after {
+    content: "";
+    position: absolute;
+    display: block;
+    border-radius: 100%;
+    transform: rotate(40deg);
+  }
+  
+  .bubble::before {
+    top: 2rem;
+    right: 2rem;
+    width: 5rem;
+    height: 2rem;
+    background-color: rgba(var(--light),1);
+    background: radial-gradient(closest-side, rgba(var(--light), .7) 50%, transparent 100%);
+  }
+  
+  .bubble::after {
+    bottom: 1.5rem;
+    left: 1.5rem;
+    width: 10rem;
+    height: 5rem;
+    background: radial-gradient(closest-side, rgba(var(--light), .3) 50%, transparent 100%);
+  }
+
+
+
+    /* BUBLE--------- */
